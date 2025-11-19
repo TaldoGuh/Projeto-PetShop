@@ -74,3 +74,24 @@ h2{
 .produto{
     width: 235px;
 }
+#produto .flex-conteiner{
+    margin-top: 43px;
+}
+.produto figure{
+    border: 1px solid #c4c4c4;
+    background-color: #fff;
+    margin: 0 0 15px 0;
+    padding: 0;
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+}
+.btn-pata{
+    border: 1px solid #91e919;
+    background-color: #d2fbd2;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #000;
+}
